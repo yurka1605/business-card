@@ -7,14 +7,5 @@
 }
 
 .messengers--tel .messengers__wrapper {
-  background-color: #ffffff;
-  border: 1px solid #000000;
-}
-
-.messengers--tel .messengers__icon svg {
-  fill: #000000;
-}
-
-.messengers--tel .messengers__info--name {
-  color: #000000;
+  background-color: #208ecb;
 }
